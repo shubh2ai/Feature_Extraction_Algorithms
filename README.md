@@ -1,0 +1,1 @@
+In this Repository Feature extraction from input image will be implemented using python from scratch as well as from functions.
